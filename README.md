@@ -1,5 +1,5 @@
 Công nghệ sử dụng: 
 - Swing
-- Java
+- Java\n
 Database:
 - SQL Server
