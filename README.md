@@ -1,5 +1,6 @@
-Công nghệ sử dụng: 
+# IDE Netbeans
+# Công nghệ sử dụng:
 - Swing
-- Java\n
-Database:
+- Java
+# Database:
 - SQL Server
